@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "hybrid_flowers:hybrid_poppy_red",
+    "hybrid_flowers:hybrid_poppy_orange",
+    "hybrid_flowers:hybrid_poppy_yellow",
+    "hybrid_flowers:hybrid_poppy_cyan",
+    "hybrid_flowers:hybrid_poppy_blue",
+    "hybrid_flowers:hybrid_poppy_purple",
+    "hybrid_flowers:hybrid_poppy_magenta",
+    "hybrid_flowers:hybrid_poppy_pink",
+    "hybrid_flowers:hybrid_poppy_white",
+    "hybrid_flowers:hybrid_poppy_black"
+  ]
+}

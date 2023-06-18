@@ -1,0 +1,148 @@
+{
+  "hybrid_pairs":
+  [
+    {
+      "parent1": "allium_yellow",
+      "parent2": "allium_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_yellow", "weight": 10}
+      ]
+    },
+    {
+      "parent1": "allium_white",
+      "parent2": "allium_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "allium_white",
+      "parent2": "allium_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_white", "weight": 20}
+      ]
+    },
+    {
+      "parent1": "allium_blue",
+      "parent2": "allium_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_yellow", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_blue", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "allium_blue",
+      "parent2": "allium_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_blue", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "allium_blue",
+      "parent2": "allium_blue",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_blue", "weight": 10}
+      ]
+    },
+    {
+      "parent1": "allium_purple",
+      "parent2": "allium_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_purple", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_yellow", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_blue", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "allium_purple",
+      "parent2": "allium_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_purple", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "allium_purple",
+      "parent2": "allium_blue",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_purple", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_blue", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "allium_purple",
+      "parent2": "allium_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_purple", "weight": 13},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_pink", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_blue", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "allium_pink",
+      "parent2": "allium_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "allium_pink",
+      "parent2": "allium_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_pink", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_white", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "allium_pink",
+      "parent2": "allium_blue",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_pink", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_blue", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_purple", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "allium_pink",
+      "parent2": "allium_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_pink", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_purple", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_allium_blue", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "allium_pink",
+      "parent2": "allium_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_allium_pink", "weight": 1}
+      ]
+    }
+
+
+
+
+  ]
+}

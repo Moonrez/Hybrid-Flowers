@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures":
+  {
+    "layer0": "hybrid_flowers:block/hybrid_poppy_yellow"
+  }
+}

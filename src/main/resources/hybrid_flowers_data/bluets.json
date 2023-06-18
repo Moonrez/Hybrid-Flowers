@@ -1,0 +1,100 @@
+{
+  "hybrid_pairs":
+  [
+    {
+      "parent1": "bluet_white",
+      "parent2": "bluet_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_white", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_blue", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "bluet_blue",
+      "parent2": "bluet_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_white", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_blue", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "bluet_blue",
+      "parent2": "bluet_blue",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_blue", "weight": 20},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_purple", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "bluet_purple",
+      "parent2": "bluet_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_white", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_purple", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "bluet_purple",
+      "parent2": "bluet_blue",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_purple", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_blue", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "bluet_purple",
+      "parent2": "bluet_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_purple", "weight": 20},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_blue", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "bluet_pink",
+      "parent2": "bluet_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "bluet_pink",
+      "parent2": "bluet_blue",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_pink", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_blue", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "bluet_pink",
+      "parent2": "bluet_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "bluet_pink",
+      "parent2": "bluet_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_pink", "weight": 16},
+        {"name": "hybrid_flowers:seeds_hybrid_bluet_white", "weight": 1}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hybrid_flowers:hybrid_orchid_white"
+    }
+  ],
+  "result": {
+    "item": "minecraft:white_dye",
+    "count": 1
+  }
+}

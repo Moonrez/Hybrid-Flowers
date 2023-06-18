@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "hybrid_flowers:hybrid_dandelion_pink",
+    "hybrid_flowers:hybrid_dandelion_white",
+    "minecraft:dandelion"
+  ]
+}

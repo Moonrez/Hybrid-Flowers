@@ -1,0 +1,60 @@
+{
+  "hybrid_pairs":
+  [
+    {
+      "parent1": "dandelion_pink",
+      "parent2": "dandelion_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_dandelion_pink", "weight": 16},
+        {"name": "hybrid_flowers:seeds_hybrid_dandelion_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_dandelion_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "dandelion_white",
+      "parent2": "dandelion_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_dandelion_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_dandelion_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "dandelion_white",
+      "parent2": "dandelion_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_dandelion_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "dandelion_yellow",
+      "parent2": "dandelion_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_dandelion_pink", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_dandelion_yellow", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_dandelion_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "dandelion_yellow",
+      "parent2": "dandelion_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_dandelion_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_dandelion_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "dandelion_yellow",
+      "parent2": "dandelion_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_dandelion_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_dandelion_yellow", "weight": 10}
+      ]
+    }
+  ]
+}

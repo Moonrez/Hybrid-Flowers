@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "#hybrid_flowers:orchid_red",
+    "#hybrid_flowers:orchid_orange",
+    "#hybrid_flowers:orchid_yellow",
+    "#hybrid_flowers:orchid_green",
+    "#hybrid_flowers:orchid_blue",
+    "#hybrid_flowers:orchid_purple",
+    "#hybrid_flowers:orchid_magenta",
+    "#hybrid_flowers:orchid_pink",
+    "#hybrid_flowers:orchid_white",
+    "#hybrid_flowers:orchid_black",
+    
+    "#hybrid_flowers:orchid_magenta_white",
+    "#hybrid_flowers:orchid_pink_yellow"
+  ]
+}

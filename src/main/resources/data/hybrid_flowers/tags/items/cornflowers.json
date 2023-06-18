@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "hybrid_flowers:hybrid_cornflower_red",
+    "hybrid_flowers:hybrid_cornflower_purple",
+    "hybrid_flowers:hybrid_cornflower_magenta",
+    "hybrid_flowers:hybrid_cornflower_pink",
+    "hybrid_flowers:hybrid_cornflower_white",
+    "hybrid_flowers:hybrid_cornflower_black"
+  ]
+}

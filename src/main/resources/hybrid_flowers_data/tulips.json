@@ -1,0 +1,1338 @@
+{
+  "hybrid_pairs":
+  [
+    {
+      "parent1": "tulip_red",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 20},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_orange",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_orange",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 20},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 2},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_yellow",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_yellow",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 15},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 15},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_yellow",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 15},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 16},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 16},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_red", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white",
+      "parent2": "tulip_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_black",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_black",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_black",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_black",
+      "parent2": "tulip_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 3}
+      ]
+    },
+    {
+      "parent1": "tulip_black",
+      "parent2": "tulip_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple",
+      "parent2": "tulip_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 2},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple",
+      "parent2": "tulip_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple",
+      "parent2": "tulip_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta",
+      "parent2": "tulip_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 2}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta",
+      "parent2": "tulip_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 2}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta",
+      "parent2": "tulip_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta",
+      "parent2": "tulip_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_pink",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 2}
+      ]
+    },
+    {
+      "parent1": "tulip_pink",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_pink",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_pink",
+      "parent2": "tulip_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_pink",
+      "parent2": "tulip_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 2}
+      ]
+    },
+    {
+      "parent1": "tulip_pink",
+      "parent2": "tulip_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 2}
+      ]
+    },
+    {
+      "parent1": "tulip_pink",
+      "parent2": "tulip_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_pink",
+      "parent2": "tulip_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1}
+      ]
+    },
+
+
+    
+    {
+      "parent1": "tulip_green_pink",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_pink",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_pink",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_pink",
+      "parent2": "tulip_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_pink",
+      "parent2": "tulip_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_pink",
+      "parent2": "tulip_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_pink",
+      "parent2": "tulip_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_pink",
+      "parent2": "tulip_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_pink",
+      "parent2": "tulip_green_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1}
+      ]
+    },
+
+
+
+    {
+      "parent1": "tulip_green_white",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_white",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_white",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_white",
+      "parent2": "tulip_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_white",
+      "parent2": "tulip_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_white",
+      "parent2": "tulip_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_white",
+      "parent2": "tulip_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_white",
+      "parent2": "tulip_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_white",
+      "parent2": "tulip_green_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_green_white",
+      "parent2": "tulip_green_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+
+
+    {
+      "parent1": "tulip_magenta_orange",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta_orange",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta_orange",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta_orange",
+      "parent2": "tulip_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta_orange",
+      "parent2": "tulip_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta_orange",
+      "parent2": "tulip_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta_orange",
+      "parent2": "tulip_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta_orange",
+      "parent2": "tulip_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta_orange",
+      "parent2": "tulip_green_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta_orange",
+      "parent2": "tulip_green_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_magenta_orange",
+      "parent2": "tulip_magenta_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+
+
+
+
+    {
+      "parent1": "tulip_orange_yellow",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_orange_yellow",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_orange_yellow",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_orange_yellow",
+      "parent2": "tulip_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_orange_yellow",
+      "parent2": "tulip_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_orange_yellow",
+      "parent2": "tulip_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_orange_yellow",
+      "parent2": "tulip_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 5},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_orange_yellow",
+      "parent2": "tulip_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_orange_yellow",
+      "parent2": "tulip_green_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_orange_yellow",
+      "parent2": "tulip_green_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_orange_yellow",
+      "parent2": "tulip_magenta_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_orange_yellow",
+      "parent2": "tulip_orange_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+
+
+
+
+
+    {
+      "parent1": "tulip_purple_yellow",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple_yellow",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple_yellow",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple_yellow",
+      "parent2": "tulip_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple_yellow",
+      "parent2": "tulip_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple_yellow",
+      "parent2": "tulip_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple_yellow",
+      "parent2": "tulip_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple_yellow",
+      "parent2": "tulip_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple_yellow",
+      "parent2": "tulip_green_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple_yellow",
+      "parent2": "tulip_green_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple_yellow",
+      "parent2": "tulip_magenta_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple_yellow",
+      "parent2": "tulip_orange_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_purple_yellow",
+      "parent2": "tulip_purple_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 1}
+      ]
+    },
+
+
+
+
+
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_green_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_green_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_magenta_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_orange_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_purple_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_rainbow",
+      "parent2": "tulip_rainbow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 18},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1}
+      ]
+    },
+
+
+
+
+
+
+
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_green_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_green_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_magenta_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_orange_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_purple_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_rainbow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 18},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 18},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_red_white",
+      "parent2": "tulip_red_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+
+
+
+
+
+
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_green_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_green_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_magenta_orange",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_orange_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_orange_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_purple_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_purple_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_rainbow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 18},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_rainbow", "weight": 18},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_red_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_red_white", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_green_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "tulip_white_pink",
+      "parent2": "tulip_white_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white_pink", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_tulip_white", "weight": 1}
+      ]
+    }
+  ]
+}

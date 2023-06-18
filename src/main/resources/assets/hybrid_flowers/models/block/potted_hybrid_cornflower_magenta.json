@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/flower_pot_cross",
+  "textures":
+  {
+    "plant": "hybrid_flowers:block/hybrid_cornflower_magenta"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hybrid_flowers:hybrid_tulip_purple_yellow"
+    }
+  ],
+  "result": {
+    "item": "minecraft:brown_dye",
+    "count": 1
+  }
+}

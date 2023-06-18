@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "hybrid_flowers:growing_hybrid_lily_white",
+                  "properties": {
+                    "age": "7"
+                  }
+                }
+              ],
+              "name": "minecraft:lily_of_the_valley"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "hybrid_flowers:seeds_hybrid_lily_white"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "functions": [
+    {
+      "function": "minecraft:explosion_decay"
+    }
+  ]
+}

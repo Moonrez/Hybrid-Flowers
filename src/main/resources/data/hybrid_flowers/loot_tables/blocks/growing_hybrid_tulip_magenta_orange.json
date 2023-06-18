@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "hybrid_flowers:growing_hybrid_tulip_magenta_orange",
+                  "properties": {
+                    "age": "7"
+                  }
+                }
+              ],
+              "name": "hybrid_flowers:hybrid_tulip_magenta_orange"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "hybrid_flowers:seeds_hybrid_tulip_magenta_orange"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "functions": [
+    {
+      "function": "minecraft:explosion_decay"
+    }
+  ]
+}

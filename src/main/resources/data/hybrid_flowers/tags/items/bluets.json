@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "hybrid_flowers:hybrid_bluet_blue",
+    "hybrid_flowers:hybrid_bluet_pink",
+    "hybrid_flowers:hybrid_bluet_purple",
+    "minecraft:azure_bluet"
+  ]
+}

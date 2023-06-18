@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#hybrid_flowers:allium_yellow",
+    "#hybrid_flowers:allium_blue",
+    "#hybrid_flowers:allium_purple",
+    "#hybrid_flowers:allium_pink",
+    "#hybrid_flowers:allium_white"
+  ]
+}

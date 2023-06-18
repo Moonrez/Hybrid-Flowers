@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "#hybrid_flowers:tulip_red",
+    "#hybrid_flowers:tulip_orange",
+    "#hybrid_flowers:tulip_pink",
+    "#hybrid_flowers:tulip_white",
+    "#hybrid_flowers:tulip_purple",
+    "#hybrid_flowers:tulip_black",
+    "#hybrid_flowers:tulip_yellow",
+    "#hybrid_flowers:tulip_magenta",
+    
+    "#hybrid_flowers:tulip_green_pink",
+    "#hybrid_flowers:tulip_green_white",
+    "#hybrid_flowers:tulip_magenta_orange",
+    "#hybrid_flowers:tulip_orange_yellow",
+    "#hybrid_flowers:tulip_purple_yellow",
+    "#hybrid_flowers:tulip_rainbow",
+    "#hybrid_flowers:tulip_red_white",
+    "#hybrid_flowers:tulip_white_pink"
+  ]
+}

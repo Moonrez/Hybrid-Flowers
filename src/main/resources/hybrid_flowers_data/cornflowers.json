@@ -1,0 +1,271 @@
+{
+  "hybrid_pairs":
+  [
+    {
+      "parent1": "cornflower_red",
+      "parent2": "cornflower_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_red", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_magenta",
+      "parent2": "cornflower_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_red", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_magenta", "weight": 12},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_magenta",
+      "parent2": "cornflower_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_magenta", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_red", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_pink",
+      "parent2": "cornflower_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_red", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_pink",
+      "parent2": "cornflower_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_pink",
+      "parent2": "cornflower_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_pink", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_magenta", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_white",
+      "parent2": "cornflower_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_white",
+      "parent2": "cornflower_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_white",
+      "parent2": "cornflower_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_white",
+      "parent2": "cornflower_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_black",
+      "parent2": "cornflower_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_black", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_red", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_black",
+      "parent2": "cornflower_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_black", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_magenta", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_red", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_black",
+      "parent2": "cornflower_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_black", "weight": 3},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_magenta", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_pink", "weight": 3}
+      ]
+    },
+    {
+      "parent1": "cornflower_black",
+      "parent2": "cornflower_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_black", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_white", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_black",
+      "parent2": "cornflower_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_purple",
+      "parent2": "cornflower_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_purple", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_red", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_purple",
+      "parent2": "cornflower_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_purple", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_magenta", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_red", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_purple",
+      "parent2": "cornflower_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_purple", "weight": 16},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_pink", "weight": 16},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_white", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_purple",
+      "parent2": "cornflower_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_purple", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_white", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_purple",
+      "parent2": "cornflower_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_purple", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_black", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_blue", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_purple",
+      "parent2": "cornflower_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_purple", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_blue",
+      "parent2": "cornflower_red",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_blue", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_red", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_blue",
+      "parent2": "cornflower_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_blue", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_magenta", "weight": 10},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_blue",
+      "parent2": "cornflower_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_blue", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_pink", "weight": 4},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_blue",
+      "parent2": "cornflower_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_blue", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_blue",
+      "parent2": "cornflower_black",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_blue", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_black", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_blue",
+      "parent2": "cornflower_purple",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_blue", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_purple", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "cornflower_blue",
+      "parent2": "cornflower_blue",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_blue", "weight": 6},
+        {"name": "hybrid_flowers:seeds_hybrid_cornflower_purple", "weight": 1}
+      ]
+    }
+  ]
+}

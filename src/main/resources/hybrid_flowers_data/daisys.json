@@ -1,0 +1,143 @@
+{
+  "hybrid_pairs":
+  [
+    {
+      "parent1": "daisy_yellow",
+      "parent2": "daisy_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_white",
+      "parent2": "daisy_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_white",
+      "parent2": "daisy_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_white", "weight": 8},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_magenta",
+      "parent2": "daisy_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_magenta", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_yellow", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_blue", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_magenta",
+      "parent2": "daisy_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_magenta", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_white", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_magenta",
+      "parent2": "daisy_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_pink",
+      "parent2": "daisy_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_magenta", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_yellow", "weight": 14},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_blue", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_pink",
+      "parent2": "daisy_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_pink", "weight": 7},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_white", "weight": 7},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_pink",
+      "parent2": "daisy_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_pink", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_pink",
+      "parent2": "daisy_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_pink", "weight": 20},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_magenta", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_blue",
+      "parent2": "daisy_yellow",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_blue", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_yellow", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_blue",
+      "parent2": "daisy_white",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_blue", "weight": 1},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_white", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_blue",
+      "parent2": "daisy_magenta",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_blue", "weight": 15},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_magenta", "weight": 15},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_blue",
+      "parent2": "daisy_pink",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_blue", "weight": 9},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_magenta", "weight": 9},
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_pink", "weight": 1}
+      ]
+    },
+    {
+      "parent1": "daisy_blue",
+      "parent2": "daisy_blue",
+      "children":
+      [
+        {"name": "hybrid_flowers:seeds_hybrid_daisy_blue", "weight": 1}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "tag": "hybrid_flowers:poppyseeds"
+    }
+  ],
+  "result": {
+    "item": "hybrid_flowers:poppyseed_bagel"
+  }
+}

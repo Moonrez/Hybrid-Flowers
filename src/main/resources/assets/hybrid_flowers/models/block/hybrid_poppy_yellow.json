@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures":
+  {
+    "cross": "hybrid_flowers:block/hybrid_poppy_yellow"
+  }
+}

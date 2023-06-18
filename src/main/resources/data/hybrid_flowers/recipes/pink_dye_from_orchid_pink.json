@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hybrid_flowers:hybrid_orchid_pink"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pink_dye",
+    "count": 1
+  }
+}

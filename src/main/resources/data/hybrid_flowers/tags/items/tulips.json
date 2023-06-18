@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "hybrid_flowers:hybrid_tulip_purple",
+    "hybrid_flowers:hybrid_tulip_black",
+    "hybrid_flowers:hybrid_tulip_yellow",
+    "hybrid_flowers:hybrid_tulip_magenta",
+    "minecraft:red_tulip",
+    "minecraft:orange_tulip",
+    "minecraft:white_tulip",
+    "minecraft:pink_tulip",
+    
+    "hybrid_flowers:hybrid_tulip_green_pink",
+    "hybrid_flowers:hybrid_tulip_green_white",
+    "hybrid_flowers:hybrid_tulip_magenta_orange",
+    "hybrid_flowers:hybrid_tulip_orange_yellow",
+    "hybrid_flowers:hybrid_tulip_purple_yellow",
+    "hybrid_flowers:hybrid_tulip_rainbow",
+    "hybrid_flowers:hybrid_tulip_red_white",
+    "hybrid_flowers:hybrid_tulip_white_pink"
+  ]
+}

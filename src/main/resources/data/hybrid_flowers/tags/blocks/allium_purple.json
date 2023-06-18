@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:allium",
+    "minecraft:potted_allium",
+    "hybrid_flowers:growing_hybrid_allium_purple"
+  ]
+}

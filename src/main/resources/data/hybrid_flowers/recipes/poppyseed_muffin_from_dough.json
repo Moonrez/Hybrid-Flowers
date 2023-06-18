@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "hybrid_flowers:poppyseeds"
+    }
+  ],
+  "result": {
+    "item": "hybrid_flowers:poppyseed_muffin"
+  }
+}

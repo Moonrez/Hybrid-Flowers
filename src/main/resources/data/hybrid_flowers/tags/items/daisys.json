@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "hybrid_flowers:hybrid_daisy_yellow",
+    "hybrid_flowers:hybrid_daisy_blue",
+    "hybrid_flowers:hybrid_daisy_magenta",
+    "hybrid_flowers:hybrid_daisy_pink",
+    "minecraft:oxeye_daisy"
+  ]
+}

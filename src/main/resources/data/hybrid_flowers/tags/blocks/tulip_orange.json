@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:orange_tulip",
+    "minecraft:potted_orange_tulip",
+    "hybrid_flowers:growing_hybrid_tulip_orange"
+  ]
+}

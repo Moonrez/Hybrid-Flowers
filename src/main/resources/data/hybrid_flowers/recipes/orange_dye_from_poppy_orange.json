@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hybrid_flowers:hybrid_poppy_orange"
+    }
+  ],
+  "result": {
+    "item": "minecraft:orange_dye",
+    "count": 1
+  }
+}

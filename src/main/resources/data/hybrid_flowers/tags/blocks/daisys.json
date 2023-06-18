@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#hybrid_flowers:daisy_yellow",
+    "#hybrid_flowers:daisy_blue",
+    "#hybrid_flowers:daisy_magenta",
+    "#hybrid_flowers:daisy_pink",
+    "#hybrid_flowers:daisy_white"
+  ]
+}

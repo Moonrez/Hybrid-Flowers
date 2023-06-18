@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:lily_of_the_valley",
+    "minecraft:potted_lily_of_the_valley",
+    "hybrid_flowers:growing_hybrid_lily_white"
+  ]
+}

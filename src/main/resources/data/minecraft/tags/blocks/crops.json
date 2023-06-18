@@ -1,0 +1,80 @@
+{
+  "replace": false,
+  "values": [
+    "hybrid_flowers:growing_hybrid_allium_yellow",
+    "hybrid_flowers:growing_hybrid_allium_blue",
+    "hybrid_flowers:growing_hybrid_allium_purple",
+    "hybrid_flowers:growing_hybrid_allium_pink",
+    "hybrid_flowers:growing_hybrid_allium_white",
+
+    "hybrid_flowers:growing_hybrid_bluet_blue",
+    "hybrid_flowers:growing_hybrid_bluet_purple",
+    "hybrid_flowers:growing_hybrid_bluet_pink",
+    "hybrid_flowers:growing_hybrid_bluet_white",
+    
+    "hybrid_flowers:growing_hybrid_cornflower_red",
+    "hybrid_flowers:growing_hybrid_cornflower_blue",
+    "hybrid_flowers:growing_hybrid_cornflower_purple",
+    "hybrid_flowers:growing_hybrid_cornflower_magenta",
+    "hybrid_flowers:growing_hybrid_cornflower_pink",
+    "hybrid_flowers:growing_hybrid_cornflower_white",
+    "hybrid_flowers:growing_hybrid_cornflower_black",
+    
+    "hybrid_flowers:growing_hybrid_daisy_yellow",
+    "hybrid_flowers:growing_hybrid_daisy_blue",
+    "hybrid_flowers:growing_hybrid_daisy_magenta",
+    "hybrid_flowers:growing_hybrid_daisy_pink",
+    "hybrid_flowers:growing_hybrid_daisy_white",
+
+    "hybrid_flowers:growing_hybrid_dandelion_pink",
+    "hybrid_flowers:growing_hybrid_dandelion_white",
+    "hybrid_flowers:growing_hybrid_dandelion_yellow",
+    
+    "hybrid_flowers:growing_hybrid_lily_pink",
+    "hybrid_flowers:growing_hybrid_lily_white",
+    
+    "hybrid_flowers:growing_hybrid_orchid_red",
+    "hybrid_flowers:growing_hybrid_orchid_orange",
+    "hybrid_flowers:growing_hybrid_orchid_yellow",
+    "hybrid_flowers:growing_hybrid_orchid_green",
+    "hybrid_flowers:growing_hybrid_orchid_blue",
+    "hybrid_flowers:growing_hybrid_orchid_purple",
+    "hybrid_flowers:growing_hybrid_orchid_magenta",
+    "hybrid_flowers:growing_hybrid_orchid_pink",
+    "hybrid_flowers:growing_hybrid_orchid_white",
+    "hybrid_flowers:growing_hybrid_orchid_black",
+    
+    "hybrid_flowers:growing_hybrid_orchid_magenta_white",
+    "hybrid_flowers:growing_hybrid_orchid_pink_yellow",
+
+
+    "hybrid_flowers:growing_hybrid_poppy_red",
+    "hybrid_flowers:growing_hybrid_poppy_orange",
+    "hybrid_flowers:growing_hybrid_poppy_yellow",
+    "hybrid_flowers:growing_hybrid_poppy_cyan",
+    "hybrid_flowers:growing_hybrid_poppy_blue",
+    "hybrid_flowers:growing_hybrid_poppy_purple",
+    "hybrid_flowers:growing_hybrid_poppy_magenta",
+    "hybrid_flowers:growing_hybrid_poppy_pink",
+    "hybrid_flowers:growing_hybrid_poppy_white",
+    "hybrid_flowers:growing_hybrid_poppy_black",
+    
+    "hybrid_flowers:growing_hybrid_tulip_purple",
+    "hybrid_flowers:growing_hybrid_tulip_black",
+    "hybrid_flowers:growing_hybrid_tulip_yellow",
+    "hybrid_flowers:growing_hybrid_tulip_magenta",
+    "hybrid_flowers:growing_hybrid_tulip_red",
+    "hybrid_flowers:growing_hybrid_tulip_orange",
+    "hybrid_flowers:growing_hybrid_tulip_pink",
+    "hybrid_flowers:growing_hybrid_tulip_white",
+    
+    "hybrid_flowers:growing_hybrid_tulip_green_pink",
+    "hybrid_flowers:growing_hybrid_tulip_green_white",
+    "hybrid_flowers:growing_hybrid_tulip_magenta_orange",
+    "hybrid_flowers:growing_hybrid_tulip_orange_yellow",
+    "hybrid_flowers:growing_hybrid_tulip_purple_yellow",
+    "hybrid_flowers:growing_hybrid_tulip_rainbow",
+    "hybrid_flowers:growing_hybrid_tulip_red_white",
+    "hybrid_flowers:growing_hybrid_tulip_white_pink"
+  ]
+}

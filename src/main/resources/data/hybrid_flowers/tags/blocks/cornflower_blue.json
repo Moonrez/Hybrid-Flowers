@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cornflower",
+    "minecraft:potted_cornflower",
+    "hybrid_flowers:growing_hybrid_cornflower_blue"
+  ]
+}
