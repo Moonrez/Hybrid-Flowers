@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
+    "minecraft:allium",
     "hybrid_flowers:hybrid_allium_yellow",
     "hybrid_flowers:hybrid_allium_blue",
-    "minecraft:allium",
     "hybrid_flowers:hybrid_allium_pink",
     "hybrid_flowers:hybrid_allium_white"
   ]

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "minecraft:cornflower",
     "hybrid_flowers:hybrid_cornflower_red",
     "hybrid_flowers:hybrid_cornflower_purple",
     "hybrid_flowers:hybrid_cornflower_magenta",
